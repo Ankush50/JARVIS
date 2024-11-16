@@ -1,0 +1,15 @@
+{
+    "visual studio code": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+    "notepad": "C:\\Windows\\system32\\notepad.exe",
+    "calculator": "C:\\Windows\\System32\\calc.exe",
+    "paint": "C:\\Windows\\System32\\mspaint.exe",
+    "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "hw info" : "C:\\Program Files\\HWiNFO64\\HWiNFO64.EXE",
+    "brave" : "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+    "cpu z" : "C:\\Program Files\\CPUID\\CPU-Z\\cpuz.exe",
+    "mongo db" : "C:\\Program Files\\MongoDB\\Server\\7.0\\bin\\mongod.exe",
+    "powershell" : "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "Gta 4" : "K:\\GTA_IV\\Grand Theft Auto IV Complete Edition\\GTAIV\\GTAIV.exe",
+    "obs studio" : "E:\\OBS_Studio\\obs-studio\bin\\64bit\\obs64.exe",
+    "music" : "C:\\Users\\Administrator\\AppData\\Local\\Programs\\youtube-music\\YouTube Music.exe"
+}
